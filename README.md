@@ -10,7 +10,7 @@ After the library import, create a new MsTag object
 passing the token obtained by the Microsoft Tags Website.
 
     myAuthToken = "you-token-here"
-    m = MsTag(myAuthToken)
+    m = PyTag(myAuthToken)
     
 Create a new Category and proceed with the activation.
 
